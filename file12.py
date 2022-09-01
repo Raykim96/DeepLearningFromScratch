@@ -9,3 +9,5 @@ dfy = pd.DataFrame(boston.target, columns =["MEDV"])
 ##################
 " fixfixfix"
 ###################
+
+"git에서 수정했어요 0901"
