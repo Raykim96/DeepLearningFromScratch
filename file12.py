@@ -4,6 +4,7 @@ boston = load_boston()
 dfx = pd.DataFrame(boston.data, columns = boston.feature_names)
 dfy = pd.DataFrame(boston.target, columns =["MEDV"])
 
+"20220901"
 
 """""""""exam"""""""""
 ##################
